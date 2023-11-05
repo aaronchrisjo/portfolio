@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+This is my portfolio made with HTML,CSS and JavaScript.
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Hosted on Vercel at : 
