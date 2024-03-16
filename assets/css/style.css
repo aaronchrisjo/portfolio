@@ -1178,7 +1178,9 @@ section .container {
   color: #fff;
 }
 
-/* Download button */
+/*--------------------------------------------------------------
+# Download resume button
+--------------------------------------------------------------*/
 .resume-button {
   background-color: dodgerblue;
   padding: 10px 20px;
